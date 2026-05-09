@@ -1,0 +1,65 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Arroz Costeño 1Kg",
+        "categoria": "Abarrotes",
+        "precio": 5.8,
+        "stock": 48,
+        "stock_minimo": 10,
+        "vencimiento": "12/12/2027"
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Azúcar Rubia 1Kg",
+        "categoria": "Abarrotes",
+        "precio": 4.2,
+        "stock": 33,
+        "stock_minimo": 8,
+        "vencimiento": "10/12/2027"
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Aceite Primor 1L",
+        "categoria": "Abarrotes",
+        "precio": 11.5,
+        "stock": 25,
+        "stock_minimo": 5,
+        "vencimiento": "10/11/2027"
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Yogurt Gloria Fresa",
+        "categoria": "Lácteos",
+        "precio": 3.5,
+        "stock": 19,
+        "stock_minimo": 5,
+        "vencimiento": "10/11/2027"
+    },
+    {
+        "codigo": "P016",
+        "nombre": "Café Altomayo 200g",
+        "categoria": "Abarrotes",
+        "precio": 3.0,
+        "stock": 2,
+        "stock_minimo": 5,
+        "vencimiento": "12/08/2026"
+    },
+    {
+        "codigo": "P017",
+        "nombre": "Chocolate Sublime",
+        "categoria": "Dulces",
+        "precio": 2.0,
+        "stock": 2,
+        "stock_minimo": 5,
+        "vencimiento": "08/11/2026"
+    },
+    {
+        "codigo": "P011",
+        "nombre": "Fideos Don Vittorio",
+        "categoria": "Abarrotes",
+        "precio": 3.2,
+        "stock": 55,
+        "stock_minimo": 10,
+        "vencimiento": "12/01/2028"
+    }
+]

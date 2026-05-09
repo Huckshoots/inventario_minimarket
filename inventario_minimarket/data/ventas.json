@@ -1,0 +1,26 @@
+[
+    {
+        "fecha": "08/05/2026 17:52:38",
+        "codigo": "P002",
+        "producto": "Azúcar Rubia 1Kg",
+        "cantidad": 2,
+        "precio_unitario": 4.2,
+        "total": 8.4
+    },
+    {
+        "fecha": "08/05/2026 17:54:37",
+        "codigo": "P004",
+        "producto": "Yogurt Gloria Fresa",
+        "cantidad": 1,
+        "precio_unitario": 3.5,
+        "total": 3.5
+    },
+    {
+        "fecha": "08/05/2026 17:55:49",
+        "codigo": "P016",
+        "producto": "Café Altomayo 200g",
+        "cantidad": 1,
+        "precio_unitario": 3.0,
+        "total": 3.0
+    }
+]
